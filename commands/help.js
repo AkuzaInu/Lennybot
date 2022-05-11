@@ -13,7 +13,9 @@ module.exports = {
 			{name: `${prefix}help`, value: `Opens the help panel. *(The one you're looking at right now)*`},
 			{name: `Source code`, value: `[Github](https://github.com/AkuzaInu/Lennybot)`},
 			{name: `Want me in your server?`, value: `[Invite me](https://discord.com/api/oauth2/authorize?client_id=973693504544964718&permissions=8&scope=bot)`},
-			{name: `Types`, value: `\`${types.join('\`, \`')}\``}
+			{name: `Types`, value: `\`${types.join('\`, \`')}\`
+
+			Use \`${prefix}Lenny [type]\` to for different types of lennyfaces!`}
 		)
 		.setColor(Color)
 		.setAuthor({ name: 'Lenny Help | ' + message.author.username, iconURL: message.author.displayAvatarURL()});
