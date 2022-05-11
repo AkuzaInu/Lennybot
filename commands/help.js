@@ -15,7 +15,7 @@ module.exports = {
 			{name: `Want me in your server?`, value: `[Invite me](https://discord.com/api/oauth2/authorize?client_id=973693504544964718&permissions=8&scope=bot)`},
 			{name: `Types`, value: `\`${types.join('\`, \`')}\`
 
-			Use \`${prefix}Lenny [type]\` to for different types of lennyfaces!`}
+			Use \`${prefix}Lenny [type]\` for different types of lennyfaces!`}
 		)
 		.setColor(Color)
 		.setAuthor({ name: 'Lenny Help | ' + message.author.username, iconURL: message.author.displayAvatarURL()});
