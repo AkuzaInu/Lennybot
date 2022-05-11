@@ -1,4 +1,4 @@
-# Lennybot
+# Lenny Discord Bot
 Lennybot `release v1.0`
 
 ## Description
