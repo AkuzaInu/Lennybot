@@ -1,4 +1,7 @@
 # Lennybot
+Lennybot `release v1.0`
+
+## Description
 Lennybot is a simple, user-friendly Discord bot that sends a lennyface when asked to do so! 
 ( ͡° ͜ʖ ͡°)
 
