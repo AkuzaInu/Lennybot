@@ -1,6 +1,10 @@
 module.exports = (Discord, client, message) => {
 	const { prefix } = require ('../config.json');
-
+	const { lennyfaces } = require('../commands/lennyfaces.js');
+	
+	// If lennybot is mentioned, respond with a default lennyface.
+	if (message.mentions.members.has(client.user.id)) return message.channel.send(lennyfaces.lenny);
+	
 	// Find if the message starts with prefix or the author is a bot. If so return.
 	if(!message.content.startsWith(prefix) || message.author.bot) return;
 
