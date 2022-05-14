@@ -6,6 +6,7 @@ Lennybot is a simple, user-friendly Discord bot that sends a lennyface when aske
 ( ͡° ͜ʖ ͡°)
 
 Accesible from the `!!Lenny` command.
+
 You can also mention `@Lennybot`! ( ͡° ͜ʖ ͡°)
 
 ## How to install
