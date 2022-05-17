@@ -11,6 +11,7 @@ You can also mention `@Lennybot`! ( ͡° ͜ʖ ͡°)
 
 ## How to install
 Want me in your server? 
+
 [Invite me](https://discord.com/api/oauth2/authorize?client_id=973693504544964718&permissions=8&scope=bot)
 
 ## Commands
